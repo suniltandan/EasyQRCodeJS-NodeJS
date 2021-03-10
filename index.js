@@ -1186,6 +1186,9 @@ Drawing.prototype.draw = function(oQRCode) {
 
             drawQrcode.call(t, oQRCode);
         }
+        bgImg.onerror = function(error){
+            t.reject(error);
+        }
         bgImg.src = _htOption.backgroundImage;
         // DoSomething
     } else {
