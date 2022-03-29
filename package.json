@@ -41,7 +41,7 @@
 	},
 	"license": "MIT",
 	"dependencies": {
-		"canvas": "^2.6.1",
+		"uc-canvas": "https://github.com/United-Codes/uc-canvas.git",
 		"jsdom": "^16.4.0"
 	},
 	"devDependencies": {}
