@@ -13,7 +13,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ushelp/EasyQRCodeJS-NodeJS.git"
+		"url": "git+https://github.com/suniltandan/EasyQRCodeJS-NodeJS.git"
 	},
 	"keywords": [
 		"qrcode",
