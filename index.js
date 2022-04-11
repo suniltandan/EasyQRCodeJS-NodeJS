@@ -21,7 +21,7 @@ var {
     createCanvas,
     loadImage,
     Image
-} = require('uc-canvas');
+} = require('canvas');
 
 var jsdom = require('jsdom');
 var C2S = require('./canvas2svg');
