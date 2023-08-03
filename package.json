@@ -41,7 +41,6 @@
 	},
 	"license": "MIT",
 	"dependencies": {
-		"canvas": "https://github.com/United-Codes/node-canvas.git",
 		"jsdom": "^16.4.0"
 	},
 	"devDependencies": {}
